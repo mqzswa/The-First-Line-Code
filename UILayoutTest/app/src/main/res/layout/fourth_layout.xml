@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FourthActivity">
+
+
+    <Button
+        android:id="@+id/button_4_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="Button_4_1" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button_4_1"
+        android:layout_toLeftOf="@+id/button_4_1"
+        android:id="@+id/button_4_2"
+        android:text="Button_4_2"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button_4_1"
+        android:layout_toRightOf="@+id/button_4_1"
+        android:id="@+id/button_4_3"
+        android:text="Button_4_3"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button_4_1"
+        android:layout_toLeftOf="@+id/button_4_1"
+        android:id="@+id/button_4_4"
+        android:text="Button_4_4"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button_4_1"
+        android:layout_toRightOf="@+id/button_4_1"
+        android:id="@+id/button_4_5"
+        android:text="Button_4_5"/>
+
+
+</RelativeLayout>
