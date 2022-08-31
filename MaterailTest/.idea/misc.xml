@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AndroidStudioProject/exercise/MaterailTest/app/src/main/res/layout/activity_main.xml" value="0.17916666666666667" />
+        <entry key="..\:/AndroidStudioProject/exercise/MaterailTest/app/src/main/res/layout/activity_fruit.xml" value="0.17916666666666667" />
+        <entry key="..\:/AndroidStudioProject/exercise/MaterailTest/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProject/exercise/MaterailTest/app/src/main/res/layout/fruit_item.xml" value="0.17916666666666667" />
         <entry key="..\:/AndroidStudioProject/exercise/MaterailTest/app/src/main/res/layout/nav_header.xml" value="0.178125" />
         <entry key="..\:/AndroidStudioProject/exercise/MaterailTest/app/src/main/res/menu/nav_menu.xml" value="0.17916666666666667" />
         <entry key="..\:/AndroidStudioProject/exercise/MaterailTest/app/src/main/res/menu/toolbar.xml" value="0.178125" />
